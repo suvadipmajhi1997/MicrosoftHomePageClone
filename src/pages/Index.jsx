@@ -4,7 +4,7 @@ import Carousel from '../components/Carousel'
 import microsoft365 from '../assets/Link-List-Icons-Microsoft-365.svg'
 import xbox from '../assets/Link-List-Icons-Xbox-Games-Consoles.svg'
 import surface from '../assets/Link-List-Icons-Surface-Devices.svg'
-import gamePass from '../assets/gamePass.avif'
+import gamePass from '../assets/gamepass.avif'
 import xlogo from '../assets/x-logo.svg.png'
 import game from '../assets/game.avif'
 
